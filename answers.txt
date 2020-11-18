@@ -2,4 +2,4 @@
 
 
 
-2)
+2) they are on the same core, so while it may look like they run in parallel, they really run sequentially.
