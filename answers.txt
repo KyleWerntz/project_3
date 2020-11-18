@@ -1,6 +1,6 @@
-1)
+1) at least 2 per core... 4 cores means at least 8 threads
 
-2) they are on the same core, so while it may look like they run in parallel, they really run sequentially.
+2) they are on the same core/cpu (if 2 logical cores are on 1 cpu)
 
 
 
